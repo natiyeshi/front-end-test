@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family:  "Raleway", sans-serif;
+    font-style: normal;
+    font-weight : 480;
+  }
+  
